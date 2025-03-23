@@ -21,7 +21,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/Wajid-Ayub/Hangman-Game.git
+git clone git@github.com:Wajid-Ayub/CodeAlpha_Project_-Hangman-Game.git
 
 Navigate to the project directory:
 
