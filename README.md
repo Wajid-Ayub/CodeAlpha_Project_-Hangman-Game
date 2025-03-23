@@ -21,7 +21,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/Hangman-Game.git
+git clone https://github.com/wajidayub/Hangman-Game.git
 
 Navigate to the project directory:
 
